@@ -17,4 +17,8 @@ public class Math {
         }
         return result;
     }
+
+    public static int abs(int a) {
+        return a;
+    }
 }
